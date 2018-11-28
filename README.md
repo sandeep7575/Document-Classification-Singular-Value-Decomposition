@@ -5,6 +5,8 @@ appraoches.
 * The data processing is done in python and the model is built in R.
 
 * Different files and folders description is as follows:
+* Download the files from the below link:
+* https://drive.google.com/file/d/1YeEkHMFiJLXll1zaqRYM8Fv86iQh4rpO/view?usp=sharing
 * data_preprocessing.ipynb : File used for preprocessing the data.
 * text_classifier_SVD.R : File used for the classification. (model)
 * data_final.csv : Processed file after wrangling the train data
