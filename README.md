@@ -1,6 +1,6 @@
 # Document-Classification-Singular-Value-Decomposition
 * This project uses singular value decomposition(SVD) approach which improved the accuracy of the classifier by 6% over traditional
-appraoches.
+approaches.
 * The clasifier used here is the SVM, SVD is used to reduce the no of features to 300.
 * The data processing is done in python and the model is built in R.
 
